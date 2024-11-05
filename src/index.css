@@ -1,0 +1,12 @@
+.App{
+    text-align: center;
+    margin-top: 6%;
+}
+input{
+    padding: 10px 20px;
+    width: 20%;
+    border: none;
+    outline: none;
+    background-color: aliceblue;
+  
+}
